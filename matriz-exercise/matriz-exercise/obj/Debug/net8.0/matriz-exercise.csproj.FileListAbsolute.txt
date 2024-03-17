@@ -1,0 +1,14 @@
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\bin\Debug\net8.0\matriz-exercise.exe
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\bin\Debug\net8.0\matriz-exercise.deps.json
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\bin\Debug\net8.0\matriz-exercise.runtimeconfig.json
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\bin\Debug\net8.0\matriz-exercise.dll
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\bin\Debug\net8.0\matriz-exercise.pdb
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\obj\Debug\net8.0\matriz-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\obj\Debug\net8.0\matriz-exercise.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\obj\Debug\net8.0\matriz-exercise.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\obj\Debug\net8.0\matriz-exercise.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\obj\Debug\net8.0\matriz-exercise.dll
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\obj\Debug\net8.0\refint\matriz-exercise.dll
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\obj\Debug\net8.0\matriz-exercise.pdb
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\obj\Debug\net8.0\matriz-exercise.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Documentos\projetos\matriz-exercise\matriz-exercise\obj\Debug\net8.0\ref\matriz-exercise.dll
